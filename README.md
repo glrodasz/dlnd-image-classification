@@ -1,2 +1,2 @@
-# dlnd_image_classification
+# dlnd-image-classification
 Neural network for image classification
